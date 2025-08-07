@@ -1,0 +1,32 @@
+<SkypeSettings>
+  <DualScreenMode>false</DualScreenMode>
+  <DuplicateIngestDefault>true</DuplicateIngestDefault>
+  <EnableResolutionAndScalingSetting>true</EnableResolutionAndScalingSetting>
+  <MainFoRDisplay>
+    <MainFoRDisplayResolution>1920,1080</MainFoRDisplayResolution>
+    <MainFoRDisplayScaling>100</MainFoRDisplayScaling>
+  </MainFoRDisplay>
+  <ExtendedFoRDisplay>
+    <ExtendedFoRDisplayResolution>0,0</ExtendedFoRDisplayResolution>
+    <ExtendedFoRDisplayScaling>0</ExtendedFoRDisplayScaling>
+  </ExtendedFoRDisplay>
+  <IngestSettings>
+    <DuplicateIngest>true</DuplicateIngest>
+  </IngestSettings>
+  <FrontRowEnabled>true</FrontRowEnabled>
+  <FrontRowLayout>Unified</FrontRowLayout>
+  <SingleFoRDefaultContentLayout>1</SingleFoRDefaultContentLayout>
+  <DefaultFoRExperience>0</DefaultFoRExperience>
+  <PrioritizeVideoParticipantsGallery>true</PrioritizeVideoParticipantsGallery>
+  <HideMeForAllLayouts>false</HideMeForAllLayouts>
+  <AllowRoomRemoteEnabled>true</AllowRoomRemoteEnabled>
+  <RoomQRcodeEnabled>true</RoomQRcodeEnabled>
+  <QRCodeAutoAcceptProximateMeetingInvitations>true</QRCodeAutoAcceptProximateMeetingInvitations>
+  <AutoAcceptProximateMeetingInvites>true</AutoAcceptProximateMeetingInvites>
+  <AutoAcceptFromLocalDomain>true</AutoAcceptFromLocalDomain>
+  <UserAccount>
+    <SkypeSignInAddress>testuser@example.com</SkypeSignInAddress>
+    <ExchangeAddress>https://outlook.office365.com/EWS/Exchange.asmx</ExchangeAddress>
+    <Password>TestPassword123</Password>
+  </UserAccount>
+</SkypeSettings>
