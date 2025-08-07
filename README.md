@@ -1,6 +1,8 @@
 # temp
 
 
+
+```
 <!-- Display Configuration -->
   <DualScreenMode>false</DualScreenMode>
   <DuplicateIngestDefault>true</DuplicateIngestDefault>
@@ -15,3 +17,7 @@
     <ExtendedFoRDisplayResolution>0,0</ExtendedFoRDisplayResolution>
     <ExtendedFoRDisplayScaling>0</ExtendedFoRDisplayScaling>
   </ExtendedFoRDisplay>
+
+```
+
+yes
