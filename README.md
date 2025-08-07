@@ -24,6 +24,8 @@
   <IngestSettings>
     <DuplicateIngest>true</DuplicateIngest>
   </IngestSettings>
+  <FrontRowEnabled>true</FrontRowEnabled>
+  <FrontRowLayout>Unified</FrontRowLayout>
 
 
 ```
