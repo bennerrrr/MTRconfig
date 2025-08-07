@@ -7,6 +7,8 @@
   <DualScreenMode>false</DualScreenMode>
   <DuplicateIngestDefault>true</DuplicateIngestDefault>
   <EnableResolutionAndScalingSetting>true</EnableResolutionAndScalingSetting>
+
+
   
   <MainFoRDisplay>
     <MainFoRDisplayResolution>1920,1080</MainFoRDisplayResolution>
@@ -17,6 +19,12 @@
     <ExtendedFoRDisplayResolution>0,0</ExtendedFoRDisplayResolution>
     <ExtendedFoRDisplayScaling>0</ExtendedFoRDisplayScaling>
   </ExtendedFoRDisplay>
+
+
+  <IngestSettings>
+    <DuplicateIngest>true</DuplicateIngest>
+  </IngestSettings>
+
 
 ```
 
