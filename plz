@@ -1,4 +1,6 @@
 <SkypeSettings>
+  <AutoAcceptProximateMeetingInvitations>true</AutoAcceptProximateMeetingInvitations>
+  <AllowRoomRemoteEnabled>true</AllowRoomRemoteEnabled>
   <DualScreenMode>false</DualScreenMode>
   <DuplicateIngestDefault>true</DuplicateIngestDefault>
   <EnableResolutionAndScalingSetting>true</EnableResolutionAndScalingSetting>
@@ -15,6 +17,7 @@
   </IngestSettings>
   <FrontRowEnabled>true</FrontRowEnabled>
   <FrontRowLayout>Unified</FrontRowLayout>
+  <FrontRowPanelDefaults>3,2</FrontRowPanelDefaults>
   <SingleFoRDefaultContentLayout>1</SingleFoRDefaultContentLayout>
   <DefaultFoRExperience>0</DefaultFoRExperience>
   <PrioritizeVideoParticipantsGallery>true</PrioritizeVideoParticipantsGallery>
@@ -24,9 +27,11 @@
   <QRCodeAutoAcceptProximateMeetingInvitations>true</QRCodeAutoAcceptProximateMeetingInvitations>
   <AutoAcceptProximateMeetingInvites>true</AutoAcceptProximateMeetingInvites>
   <AutoAcceptFromLocalDomain>true</AutoAcceptFromLocalDomain>
+
   <UserAccount>
     <SkypeSignInAddress>testuser@example.com</SkypeSignInAddress>
     <ExchangeAddress>https://outlook.office365.com/EWS/Exchange.asmx</ExchangeAddress>
     <Password>TestPassword123</Password>
   </UserAccount>
+
 </SkypeSettings>
