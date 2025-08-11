@@ -1,33 +1,7 @@
-# temp
+# MTR config
 
-
-
-```
-<!-- Display Configuration -->
-  <DualScreenMode>false</DualScreenMode>
-  <DuplicateIngestDefault>true</DuplicateIngestDefault>
-  <EnableResolutionAndScalingSetting>true</EnableResolutionAndScalingSetting>
-
-
-  
-  <MainFoRDisplay>
-    <MainFoRDisplayResolution>1920,1080</MainFoRDisplayResolution>
-    <MainFoRDisplayScaling>100</MainFoRDisplayScaling>
-  </MainFoRDisplay>
-  
-  <ExtendedFoRDisplay>
-    <ExtendedFoRDisplayResolution>0,0</ExtendedFoRDisplayResolution>
-    <ExtendedFoRDisplayScaling>0</ExtendedFoRDisplayScaling>
-  </ExtendedFoRDisplay>
-
-
-  <IngestSettings>
-    <DuplicateIngest>true</DuplicateIngest>
-  </IngestSettings>
-  <FrontRowEnabled>true</FrontRowEnabled>
-  <FrontRowLayout>Unified</FrontRowLayout>
-
+Please place this file in the following path (changing the user to match):
 
 ```
-
-yes
+C:\Users\Test\AppData\Local\Packages\Microsoft.SkypeRoomSystem_8wekyb3d8bbwe\LocalState
+```
