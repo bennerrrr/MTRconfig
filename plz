@@ -18,6 +18,9 @@
   <FrontRowEnabled>true</FrontRowEnabled>
   <FrontRowLayout>Unified</FrontRowLayout>
   <FrontRowPanelDefaults>3,2</FrontRowPanelDefaults>
+  <FrontRowVideoSize>medium</FrontRowVideoSize>
+  <ShowMeetingChat>true</ShowMeetingChat>
+  <OpenMeetingChatByDefault>true</OpenMeetingChatByDefault>
   <SingleFoRDefaultContentLayout>1</SingleFoRDefaultContentLayout>
   <DefaultFoRExperience>0</DefaultFoRExperience>
   <PrioritizeVideoParticipantsGallery>true</PrioritizeVideoParticipantsGallery>
@@ -27,6 +30,12 @@
   <QRCodeAutoAcceptProximateMeetingInvitations>true</QRCodeAutoAcceptProximateMeetingInvitations>
   <AutoAcceptProximateMeetingInvites>true</AutoAcceptProximateMeetingInvites>
   <AutoAcceptFromLocalDomain>true</AutoAcceptFromLocalDomain>
+  <TeamsMeetingsEnabled>true</TeamsMeetingsEnabled>
+  <IsTeamsDefaultClient>true</IsTeamsDefaultClient>
+  <BluetoothAdvertisementEnabled>true</BluetoothAdvertisementEnabled>
+  <WebExMeetingsEnabled>true</WebExMeetingsEnabled>
+  <ZoomMeetingsEnabled>true</ZoomMeetingsEnabled>
+  <BlueJeansMeetingsEnabled>true</BlueJeansMeetingsEnabled>
 
   <UserAccount>
     <SkypeSignInAddress>testuser@example.com</SkypeSignInAddress>
