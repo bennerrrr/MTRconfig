@@ -42,5 +42,5 @@
     <ExchangeAddress>https://outlook.office365.com/EWS/Exchange.asmx</ExchangeAddress>
     <Password>TestPassword123</Password>
   </UserAccount>
-
+  <DualFoR>false</DualFoR>
 </SkypeSettings>
